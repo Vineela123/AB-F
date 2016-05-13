@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\classes-cf69582e4759300a4ee9ac085d64975f83c97da2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\classes-19c1406a6863dee8bc1540c5b5f4a356796c5b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-324c68e2ff4c2a5c2a4eec47e307048ca601af57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-d9593e075e90347782ab57e94411df532dd71e6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\classes-c3849e1dc57983e63429025c2946b906d61443c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.2\112366d8158749e25532ebce162232c6e0fb20a5\gson-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="112366d8158749e25532ebce162232c6e0fb20a5">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\gson-1.7.2-07d0ec157af7d81125b4cf509713413d98833e35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vineela\.gradle\caches\modules-2\files-2.1\org.mockito\mockito-all\1.9.5\79a8984096fc6591c1e3690e07d41be506356fa5\mockito-all-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="79a8984096fc6591c1e3690e07d41be506356fa5">
+        <dex dex="C:\Users\Vineela\AndroidStudioProjects\AB&amp;F\app\build\intermediates\pre-dexed\debug\mockito-all-1.9.5-6f2a1e7424b76a789cb7969baffa50f97c71c61e.jar" />
+    </item>
+
+</items>
